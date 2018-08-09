@@ -8,7 +8,7 @@
 
 struct FootballPlayer{
     
-    var name = ""
+    var name = "jjjjj"
     var sex  = ""
     var age = ""
     
